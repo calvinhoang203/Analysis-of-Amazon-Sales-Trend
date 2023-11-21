@@ -24,6 +24,6 @@ I’m using the Amazon Sales Dataset to understand customer behavior by analyzin
 
 10/ What top products have the highest click-through rates based on the product links provided?
 
-11/ How can customer feedback be used to improve products or customer service?
+11/ What is the distribution of discount percentages for the products?
 
 Link to the dataset: https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset

@@ -6,11 +6,11 @@ I’m using the Amazon Sales Dataset to understand customer behavior by analyzin
 
 1/ Describe the information that the dataset gives
 
-2/ What are the top-rated products based on user ratings? 
+2/ What are the top-rated products based on the number of ratings? 
 
 3/ Which category has the highest number of products?
 
-4/ What are the most popular products in each category based on the number of reviews?
+4/ What are the top 5 most popular products in each category based on the number of reviews?
 
 5/ Are there certain products or categories that consistently receive positive or negative reviews?
 
@@ -24,6 +24,6 @@ I’m using the Amazon Sales Dataset to understand customer behavior by analyzin
 
 10/ What top products have the highest click-through rates based on the product links provided?
 
-11/ What is the distribution of discount percentages for the products?
+11/ How can customer feedback be used to improve products or customer service?
 
 Link to the dataset: https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset

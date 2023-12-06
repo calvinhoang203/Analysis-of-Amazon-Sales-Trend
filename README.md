@@ -8,22 +8,22 @@ I’m using the Amazon Sales Dataset to understand customer behavior by analyzin
 
 2/ What are the top-rated products based on the number of ratings? 
 
-3/ Which category has the highest number of products?
+3/ Is there a correlation between the number of ratings and the average rating of a product?
 
-4/ What are the top 5 most popular products in each category based on the number of reviews?
+4/ What are top products that have the most discounted price?
 
-5/ Are there certain products or categories that consistently receive positive or negative reviews?
+5/ What is the correlation between the discount percentage and the number of reviews?
 
-6/ Which top users have provided the most reviews?
+6/ What top products have the highest click-through rates based on the product links provided?
 
-7/ How has user satisfaction changed over time? Are there any noticeable trends? 
+7/ Which category has the highest number of products?
 
-8/ Is there a correlation between the number of ratings and the average rating of a product?
+8/ What are the top 5 most popular products in each category based on the number of reviews?
 
-9/ What are top products that have the most discounted price?
+9/ Which top users have provided the most reviews?
 
-10/ What top products have the highest click-through rates based on the product links provided?
+10/ Are there certain products that consistently receive positive or negative reviews?
 
-11/ How can customer feedback be used to improve products or customer service?
+11/ Is there any correlation between the length of the review content and the rating?
 
 Link to the dataset: https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset

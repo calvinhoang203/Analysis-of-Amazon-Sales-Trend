@@ -1,6 +1,6 @@
 # Analysis-of-Amazon-Sales-Trend
 
-I’m using the Amazon Sales Dataset to understand customer behavior by analyzing the types of products they review, the length of their reviews, and the impact on product engagement. This dataset provides me necessary information in order to obtain meaning insights. Furthermore, I will create visual data models to gain insights into customer preferences, popular products, and trends. I will utilize this dataset to address the following questions:
+I’m using the Amazon Sales Dataset to understand customer behavior by analyzing the types of products they review, the length of their reviews, and the impact on product engagement. This dataset provides me necessary information to obtain meaningful insights. Furthermore, I will create visual data models to gain insights into customer preferences, popular products, and trends. I will utilize this dataset to address the following questions:
 
 # Questions
 
